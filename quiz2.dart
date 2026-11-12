@@ -14,7 +14,7 @@ class UCL {
   // }
 
   // 2. Positional direct argmen
-  // Pakaian(this.team, this.country);
+  // UCL(this.team, this.country);
 
   // 3. indirect named argumen
   // UCL({String? inputTeam, String? inputCountry}) {
